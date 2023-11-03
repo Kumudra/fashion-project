@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+    /*background-image: url(RAIN.gif);*/
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 330px;
+}
+
+.header{
+    color: #9c3589;
+    font-size: 30px;
+    font-family: cooperplate,fantasy;
+    background-color: #f89f5b;
+    padding: 30px;
+    text-align: center;
+    border:2px solid #3f1651;
+    border-radius: 30px;
+    box-shadow:2px 1px 3px #4D9078;
+    /*margin: 10px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px #3f1651;*/
+}
+
+/*h1{
+    color: darkslategray;
+    text-align: center;
+    font-size: 30px;
+}*/
+
+h2{
+    color: #653780;
+    text-align: center;
+    background-color: #d8823f;
+    font-size: 28px;
+}
+h3{
+    color: chocolate;
+    text-align: left;
+    font-size: 20px;
+}
+.line{
+    height: 10px;
+    background-color: blanchedalmond;
+}
